@@ -1,0 +1,81 @@
+O:8:"stdClass":7:{s:4:"file";s:20:"report/110_kmom01.md";s:7:"section";s:3:"110";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:7:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:7:"report/";s:4:"text";s:7:"Reports";}i:0;a:2:{s:3:"url";s:13:"report/kmom01";s:4:"text";s:6:"Kmom01";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:19:"img/nyc_skyline.jpg";}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:20:"report/120_kmom02.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom02";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:13:"report/kmom02";}s:8:"previous";a:10:{s:4:"file";s:19:"report/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduktion";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:12:"report/intro";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:2466:"<h1>Kmom01</h1>
+
+<p>Report for kmom01.</p>
+
+<p><b>Är du sedan tidigare van att jobba i ramverk för att bygga webbplatser? Om ja, vilka ramverk/språk har du jobbat med?</b>
+- Jag har bland annat jobbat med Twitter Bootstrap och jQuery. Bootstrap används
+för att strukturera sin sida och designa sina element. Den har ett gridsystem som
+är minst sagt flexibel och det är väldigt enkelt att placera olika element vart man vill
+bara genom att dela upp sidan i olika kolumner samt dela de kolumnerna i mindre.
+Bootstrap har även väldigt snygga javascript plugins. jQuery är nästan ett måste för mig
+när jag skriver javascript. Förenklar väldigt mycket. Speciellt ajax funktioner.</p>
+
+<p><b>Det blev en del nya verktyg i labbmiljön, var de nya för dig eller kände du igen dem?</b>
+- Både Composer och make var nya verktyg som jag aldrig jobbat med tidigare. Jag har
+tyvärr inte stött på pakethanteringssystem tidigare utan laddat ner det jag behövt så
+som PHP, mysql m.m. genom deras hemsida och använt enkla GUI:s för att installera. Jag
+behöver träna på kommandon och pakethanteringssystem då det verkar vara mer professionelt
+att jobba på det sättet.</p>
+
+<p><b>Hur kändes det att jobba med Anax Flat och bygga din me-sida?</b>
+- Det var väldigt nytt minst sagt. Nu har jag inte haft mycket tid att gå in på
+djupet för att förstå hur just detta ramverk fungerar. Dvs. hur den tar innehållet
+i .md filer och gör det till html, men det är kanske det är just därför de skapat
+ramverket. För att man ska slippa tänka på det. Men jag har förstått hur man ändrar
+alternativt lägger till sidor/innehåll. Finns mycket mer att lära men det kommer
+troligtvis komma allt eftersom. Jag skulle dock hellre välja jobba med bootstrap.</p>
+
+<p><b>Har du några förutfattade meningar, eller kanske en etablerad övertygelse, inom design och användbarthet för webben?</b>
+- Är ingen höjdare inom design men det som de flesta &#8220;design&#8221; ramverk verkar
+fokusera på är &#8220;mobile first&#8221; vilket är att fler och fler anpassar sina
+webbapplikationer för att vara anpassade för mobilen.</p>
+
+<p><b>Det fanns videor som kompletterade artiklarna, hjälpte de dig att förstå materialet bättre?</b>
+- Jag tyckte att artiklarna var väldigt bra skriva och rakt på sak. Jag har inte
+kollat på några av videon än då artiklarna är så pass bra skrivna. Det var
+enkelt att förstå vad man skulle göra</p>
+";s:7:"excerpt";s:2466:"<h1>Kmom01</h1>
+
+<p>Report for kmom01.</p>
+
+<p><b>Är du sedan tidigare van att jobba i ramverk för att bygga webbplatser? Om ja, vilka ramverk/språk har du jobbat med?</b>
+- Jag har bland annat jobbat med Twitter Bootstrap och jQuery. Bootstrap används
+för att strukturera sin sida och designa sina element. Den har ett gridsystem som
+är minst sagt flexibel och det är väldigt enkelt att placera olika element vart man vill
+bara genom att dela upp sidan i olika kolumner samt dela de kolumnerna i mindre.
+Bootstrap har även väldigt snygga javascript plugins. jQuery är nästan ett måste för mig
+när jag skriver javascript. Förenklar väldigt mycket. Speciellt ajax funktioner.</p>
+
+<p><b>Det blev en del nya verktyg i labbmiljön, var de nya för dig eller kände du igen dem?</b>
+- Både Composer och make var nya verktyg som jag aldrig jobbat med tidigare. Jag har
+tyvärr inte stött på pakethanteringssystem tidigare utan laddat ner det jag behövt så
+som PHP, mysql m.m. genom deras hemsida och använt enkla GUI:s för att installera. Jag
+behöver träna på kommandon och pakethanteringssystem då det verkar vara mer professionelt
+att jobba på det sättet.</p>
+
+<p><b>Hur kändes det att jobba med Anax Flat och bygga din me-sida?</b>
+- Det var väldigt nytt minst sagt. Nu har jag inte haft mycket tid att gå in på
+djupet för att förstå hur just detta ramverk fungerar. Dvs. hur den tar innehållet
+i .md filer och gör det till html, men det är kanske det är just därför de skapat
+ramverket. För att man ska slippa tänka på det. Men jag har förstått hur man ändrar
+alternativt lägger till sidor/innehåll. Finns mycket mer att lära men det kommer
+troligtvis komma allt eftersom. Jag skulle dock hellre välja jobba med bootstrap.</p>
+
+<p><b>Har du några förutfattade meningar, eller kanske en etablerad övertygelse, inom design och användbarthet för webben?</b>
+- Är ingen höjdare inom design men det som de flesta &#8220;design&#8221; ramverk verkar
+fokusera på är &#8220;mobile first&#8221; vilket är att fler och fler anpassar sina
+webbapplikationer för att vara anpassade för mobilen.</p>
+
+<p><b>Det fanns videor som kompletterade artiklarna, hjälpte de dig att förstå materialet bättre?</b>
+- Jag tyckte att artiklarna var väldigt bra skriva och rakt på sak. Jag har inte
+kollat på några av videon än då artiklarna är så pass bra skrivna. Det var
+enkelt att förstå vad man skulle göra</p>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";a:10:{s:4:"file";s:20:"report/120_kmom02.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom02";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:13:"report/kmom02";}s:8:"previous";a:10:{s:4:"file";s:19:"report/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduktion";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:12:"report/intro";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:7:"Reports";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:9:{s:12:"report/index";a:9:{s:4:"file";s:19:"report/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Index";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:12:"report/intro";a:9:{s:4:"file";s:19:"report/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduktion";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom01";a:9:{s:4:"file";s:20:"report/110_kmom01.md";s:7:"section";s:3:"110";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom01";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom02";a:9:{s:4:"file";s:20:"report/120_kmom02.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom02";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom03";a:9:{s:4:"file";s:20:"report/130_kmom03.md";s:7:"section";s:3:"130";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom03";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom04";a:9:{s:4:"file";s:20:"report/140_kmom04.md";s:7:"section";s:3:"140";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom04";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom05";a:9:{s:4:"file";s:20:"report/150_kmom05.md";s:7:"section";s:3:"150";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom05";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom06";a:9:{s:4:"file";s:20:"report/160_kmom06.md";s:7:"section";s:3:"160";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom06";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom10";a:9:{s:4:"file";s:20:"report/170_kmom10.md";s:7:"section";s:3:"170";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom10";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}s:6:"byline";a:5:{s:5:"title";N;s:4:"data";a:2:{s:7:"content";s:479:"<div style="border: 1px solid black; margin-bottom: 10px;">
+Denna sida är modifierat av Sam Zaade. Sam är 31 år gammal och studerar
+till webbprogrammerare på BTH. Han jobbar fulltid med sin verksamhet. Han börjare
+programmera på hobby nivår för ca. 4 sedan och har testat och lärt sig en massa
+olika teknologier. Sam älskar webbprogrammering då internet har så mycket potential.
+
+<img alt="Berserk" style="text-align: center;" src=../img/berserk-banner-1.jpg>
+</div>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:12:"block/byline";}}s:6:"region";s:10:"after-main";s:8:"template";s:15:"default/content";s:4:"sort";i:1;}}s:11:"frontmatter";a:1:{s:5:"title";s:6:"Kmom01";}}
