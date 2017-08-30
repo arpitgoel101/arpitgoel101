@@ -1,8 +1,9 @@
 <div style="border: 1px solid black; margin-bottom: 10px;">
-Denna sida är modifierat av Sam Zaade. Sam är 31 år gammal och studerar
-till webbprogrammerare på BTH. Han jobbar fulltid med sin verksamhet. Han börjare
-programmera på hobby nivår för ca. 4 sedan och har testat och lärt sig en massa
-olika teknologier. Sam älskar webbprogrammering då internet har så mycket potential.
+
+This page has been modified by Sam Zaade. Sam is 31 years old and studying
+To web developers at BTH. He works full time with his business. He's bored
+Program at hobby level for approx. 4 since and have tested and learned a lot
+Different technologies. The successful web programming of the internet has so much potential.
 
 <img alt="Berserk" style="text-align: center;" src=../../htdocs/img/berserk-banner-1.jpg>
 </div>

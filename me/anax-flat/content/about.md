@@ -1,16 +1,17 @@
-Om den här sidan
+About this page
 ==============================================
 
-Denna sida är enbart till för att lära mig anax-flat på kursen Design som jag
-läser på BTH. Det är ingen seriös sida.
 
-Käll koden till denna sida finns att hitta under följande länk.
-[canax/anax-flat](git@github.com:canax/anax-flat.git).
+This page is only for me to read anax-flat on the course Design like me
+Read on BTH. There is no seri� page.
 
-Källkoden för just denna sida finns att ladda ner här:
+The code for this page can be found under the following link.
+[CaNaX / anax flat-] (git@github.com: CaNaX / anax-flat.git).
 
-[berserk1/anax-flat](https://github.com/Berserk1/anax-flat.git).
+The code for this page is available for download here:
 
-Sidan är gjord av [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+[Berserk1 / anax flat-] (https://github.com/Berserk1/anax-flat.git).
+
+This page is made by [Mikael Roos] (https://mikaelroos.se) (mos@dbwebb.se).
 
 <img alt="Anax Flat symbol" src=../img/anax.png>

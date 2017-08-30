@@ -1,18 +1,19 @@
 ---
 titleBreadcrumb: Home
 ...
-Välkommen till kursen Teknisk webbdesign och användbarhet-program.
+
+Welcome to the course Technical web design and usability programs.
 ===============================
 
-Hej!
+Hey!
 
-Mitt namn är Sam. Jag läser webbprogrammerar programmet på BTH och i denna kurs
-får jag lära mig hur man bl.a. använder sig av github och ramverket anax-flat.
-Github är ett versionshanteringssystem som gör det enklare att dela med sig av
-det man har gjort samt hålla koll på hur olika versioner av ens program har
-varit. Man dess huvudsyfte är att förenkla sammarbetet mellan programmerare
-i olika projekt.
+My name is Sam. I read web programming the program on BTH and in this course
+May I learn how to Uses github and the framework anax-flat.
+Github is a version management system that makes it easier to share
+What you've done as well as keep an eye on how different versions of one's program have
+been. Its main purpose is to prevent the collaboration between programmers
+In different projects.
 
-Det ska bli intressant och se hur ramverket och github fungerar. Häng med!
+It will be interesting and see how the framework and github work. Join!
 
-/Sam Zaade
+/ Sam Zaade

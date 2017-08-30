@@ -1,4 +1,4 @@
-Kontakt
+Contact
 ==============================================
 
-Om ni har några frågor så kan ni mejla mig : testmejl@gmail.com
+If you have any questions then you can email me: testmejl@gmail.com
